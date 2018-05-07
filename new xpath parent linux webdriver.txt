@@ -40,6 +40,8 @@ http://automated-testing.info/t/luchshaya-reporting-tulza-dlya-sborki-maven-webd
 https://www.youtube.com/watch?v=7EI_nF1bYeg
 https://www.youtube.com/watch?v=tTV00kSutQI
 Wrappers
+1
+***https://huddle.eurostarsoftwaretesting.com/how-to-selenium-expected-conditions/
 https://www.ontestautomation.com/using-wrapper-methods-for-better-error-handling-in-selenium/
 https://kreisfahrer.gitbooks.io/selenium-webdriver/content/selenium_webdriver_testirovanie_html5_veb_prilozhenii/selenium_obertki_i_rasshireniya.html
 
@@ -56,4 +58,4 @@ http://www.seleniumeasy.com/testng-tutorials/how-to-take-screenshot-for-only-fai
 https://www.quora.com/How-can-I-attach-the-failed-test-cases-screenshots-to-the-ReportNG-report
 http://seleniumtestingworld.blogspot.com/2013/03/reportng-enrichment-with-screenshots.html
 https://www.quora.com/How-can-I-attach-the-failed-test-cases-screenshots-to-the-ReportNG-report
-https://stackoverflow.com/questions/3422262/take-a-screenshot-with-selenium-webdriver?rq=1
+https://stackoverflow.com/questions/3422262/take-a-screenshot-with-selenium-webdriver?rq=
