@@ -1,0 +1,58 @@
+DATA generation:
+https://mockaroo.com/
+https://cartoved.ru/common/generator-kreditnyh-kart.html
+https://github.com/DiUS/java-faker
+http://software-testing.ru/forum/index.php?/topic/32197-generator-kirillicheskikh-testovykh-dannykh-java/
+
+Selectors XPath
+Reff1: https://stackoverflow.com/questions/28237694/xpath-get-parent-node-from-child-node
+Reff2: https://www.w3schools.com/xml/xpath_axes.asp
+
+Example:
+https://ru.stackoverflow.com/questions/714969/xpath-%D0%9A%D0%B0%D0%BA-%D0%BD%D0%B0%D0%B9%D1%82%D0%B8-%D0%BF%D0%B5%D1%80%D0%B2%D0%BE%D0%B3%D0%BE-%D0%BE%D0%B1%D1%89%D0%B5%D0%B3%D0%BE-%D1%80%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C-%D0%B4%D0%B2%D1%83%D1%85-%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%BE%D0%B2
+//p[contains(text(), "Правильным ответом для моего вопроса является следующий xpath:")]/parent::* 
+
+//p[contains(text(), "Правильным ответом для моего вопроса является следующий xpath:")]/parent::* /following-sibling:: div /div[1] // a[1]
+
+Usefull
+https://johnresig.com/blog/xpath-css-selectors/
+http://scraping.pro/5-best-xpath-cheat-sheets-and-quick-references/
+https://www.automatetheplanet.com/selenium-webdriver-locators-cheat-sheet/
+https://www.guru99.com/using-contains-sbiling-ancestor-to-find-element-in-selenium.html
+https://www.w3schools.com/xml/xpath_axes.asp
+http://www.wisdomweb.ru/CSSd/selectors.php
+Scroll
+https://webkul.com/blog/how-to-scroll-in-a-specific-element-using-selenium-webdriver/
+
+Linux cheet sheet
+https://tproger.ru/translations/bash-cheatsheet/
+
+Webdriver:
+https://www.automatetheplanet.com/selenium-webdriver-csharp-cheat-sheet/
+
+TestRun and suites
+Integration maven and testNG
+https://www.youtube.com/watch?v=9O2LlfAGroU
+
+Reports https://reportng.uncommons.org/*
+https://www.youtube.com/watch?v=eN8t75gCbtg
+http://automated-testing.info/t/luchshaya-reporting-tulza-dlya-sborki-maven-webdriver-testng/1805/18
+https://www.youtube.com/watch?v=7EI_nF1bYeg
+https://www.youtube.com/watch?v=tTV00kSutQI
+Wrappers
+https://www.ontestautomation.com/using-wrapper-methods-for-better-error-handling-in-selenium/
+https://kreisfahrer.gitbooks.io/selenium-webdriver/content/selenium_webdriver_testirovanie_html5_veb_prilozhenii/selenium_obertki_i_rasshireniya.html
+
+Scroll*
+https://www.youtube.com/watch?v=OZ_XIgxbyiY
+https://www.linkedin.com/pulse/multiple-ways-scroll-page-using-selenium-webdriver-gaurav-singh/
+https://www.guru99.com/scroll-up-down-selenium-webdriver.html
+https://www.360logica.com/blog/multiple-ways-to-scroll-a-page-using-selenium-webdriver/
+
+ScreenShoot
+https://groups.google.com/forum/#!topic/testng-users/80g-iNKxR8g
+http://www.seleniumeasy.com/testng-tutorials/how-to-take-screenshot-for-only-failed-tests-using-webdriver
+https://www.quora.com/How-can-I-attach-the-failed-test-cases-screenshots-to-the-ReportNG-report
+http://seleniumtestingworld.blogspot.com/2013/03/reportng-enrichment-with-screenshots.html
+https://www.quora.com/How-can-I-attach-the-failed-test-cases-screenshots-to-the-ReportNG-report
+https://stackoverflow.com/questions/3422262/take-a-screenshot-with-selenium-webdriver?rq=1
