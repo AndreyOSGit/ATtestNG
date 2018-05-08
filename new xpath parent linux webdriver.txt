@@ -37,7 +37,9 @@ TestRun and suites
 Integration maven and testNG
 https://www.youtube.com/watch?v=9O2LlfAGroU
 
+
 Reports https://reportng.uncommons.org/*
+
 https://www.youtube.com/watch?v=eN8t75gCbtg
 http://automated-testing.info/t/luchshaya-reporting-tulza-dlya-sborki-maven-webdriver-testng/1805/18
 https://www.youtube.com/watch?v=7EI_nF1bYeg
@@ -54,7 +56,9 @@ https://www.linkedin.com/pulse/multiple-ways-scroll-page-using-selenium-webdrive
 https://www.guru99.com/scroll-up-down-selenium-webdriver.html
 https://www.360logica.com/blog/multiple-ways-to-scroll-a-page-using-selenium-webdriver/
 
-ScreenShoot*https://developers.perfectomobile.com/display/TT/TestNG+-+Using+ReportNG
+ScreenShoot* https://www.quora.com/How-can-I-attach-the-failed-test-cases-screenshots-to-the-ReportNG-report
+
+https://developers.perfectomobile.com/display/TT/TestNG+-+Using+ReportNG
 https://www.guru99.com/take-screenshot-selenium-webdriver.html
 http://automated-testing.info/t/reportng-kak-nastroit-html-otchety-pod-svoi-nuzhdy/3702/6
 https://groups.google.com/forum/#!topic/testng-users/80g-iNKxR8g
