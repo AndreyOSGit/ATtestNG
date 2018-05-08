@@ -1,3 +1,6 @@
+
+
+
 DATA generation:
 https://mockaroo.com/
 https://cartoved.ru/common/generator-kreditnyh-kart.html
@@ -51,7 +54,8 @@ https://www.linkedin.com/pulse/multiple-ways-scroll-page-using-selenium-webdrive
 https://www.guru99.com/scroll-up-down-selenium-webdriver.html
 https://www.360logica.com/blog/multiple-ways-to-scroll-a-page-using-selenium-webdriver/
 
-ScreenShoot* https://www.guru99.com/take-screenshot-selenium-webdriver.html
+ScreenShoot*https://developers.perfectomobile.com/display/TT/TestNG+-+Using+ReportNG
+https://www.guru99.com/take-screenshot-selenium-webdriver.html
 http://automated-testing.info/t/reportng-kak-nastroit-html-otchety-pod-svoi-nuzhdy/3702/6
 https://groups.google.com/forum/#!topic/testng-users/80g-iNKxR8g
 http://www.seleniumeasy.com/testng-tutorials/how-to-take-screenshot-for-only-failed-tests-using-webdriver
